@@ -1,11 +1,11 @@
-# DATA 712 - Homework 4: Logistic Regression Analysis
+# DATA 712 - Homework 4
 
 ## Overview
 This repository contains my submission for Homework 4 in DATA 712. The assignment explores logistic regression models using the `mtcars` dataset.
 
 ## Files in This Repository
-- hw4.Rmd → The R Markdown file with code and analysis.
-- hw4.pdf → The knitted report in PDF format.
+- Assignment 4.Rmd → The R Markdown file with code and analysis.
+- Assignment 4.pdf → The knitted report in PDF format.
 - README.md → This file, explaining the project.
 
 ## Summary of Analysis
